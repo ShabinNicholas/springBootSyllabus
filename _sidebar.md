@@ -1,0 +1,26 @@
+- **Getting Started**
+  - [Home](/)
+
+- **Phase 1 — CRUD API**
+  - [Overview](phase-1/README.md)
+  - [1. Environment Setup](phase-1/01-environment-setup.md)
+  - [2. Generate the Project](phase-1/02-generate-project.md)
+  - [3. Open in VS Code](phase-1/03-open-in-vscode.md)
+  - [4. First Run](phase-1/04-first-run.md)
+  - [5. Create the Database](phase-1/05-create-database.md)
+  - [6. Connect to PostgreSQL](phase-1/06-connect-postgresql.md)
+  - [7. Student Entity](phase-1/07-student-entity.md)
+  - [8. Repository](phase-1/08-repository.md)
+  - [9. Service Layer](phase-1/09-service-layer.md)
+  - [10. Controller & First GET](phase-1/10-controller.md)
+  - [11. Create API (POST)](phase-1/11-create-api.md)
+  - [12. Read APIs (GET)](phase-1/12-read-apis.md)
+  - [13. Update API (PUT)](phase-1/13-update-api.md)
+  - [14. Delete API (DELETE)](phase-1/14-delete-api.md)
+  - [15. 404 Not Found](phase-1/15-not-found.md)
+  - [16. HTTP Status Codes](phase-1/16-status-codes.md)
+  - [17. 404 for Update & Delete](phase-1/17-not-found-update-delete.md)
+  - [Final Code](phase-1/final-code.md)
+
+- **Coming Soon**
+  - <span class="soon">Phase 2 — Authentication</span>
