@@ -22,5 +22,39 @@
   - [17. 404 for Update & Delete](phase-1/17-not-found-update-delete.md)
   - [Final Code](phase-1/final-code.md)
 
+- **Phase 2 — Validation & DTOs**
+  - [Overview](phase-2/README.md)
+  - [1. Validation Dependency](phase-2/01-validation-dependency.md)
+  - [2. First Validation Rule](phase-2/02-first-validation.md)
+  - [3. Email & Age Validation](phase-2/03-email-age-validation.md)
+  - [4. Validate PUT](phase-2/04-validate-put.md)
+  - [5. Custom Messages](phase-2/05-custom-messages.md)
+  - [6. Global Exception Handler](phase-2/06-exception-handler.md)
+  - [7. Validation Status Code](phase-2/07-validation-status.md)
+  - [8. Request DTO](phase-2/08-request-dto.md)
+  - [9. DTO for PUT](phase-2/09-request-dto-put.md)
+  - [10. Response DTO](phase-2/10-response-dto.md)
+  - [11. Response DTO Everywhere](phase-2/11-response-dto-all.md)
+  - [12. Clean 404 Messages](phase-2/12-not-found-handler.md)
+  - [13. Duplicate Emails (409)](phase-2/13-duplicate-emails.md)
+  - [Final Code](phase-2/final-code.md)
+
+- **Phase 3 — Transactions, Paging & Security**
+  - [Overview](phase-3/README.md)
+  - [1. @Transactional](phase-3/01-transactional.md)
+  - [2. Rollback Demo](phase-3/02-rollback-demo.md)
+  - [3. Where It Goes & readOnly](phase-3/03-readonly.md)
+  - [4. Pagination](phase-3/04-pagination.md)
+  - [5. Page Response DTO](phase-3/05-page-response.md)
+  - [6. Sorting](phase-3/06-sorting.md)
+  - [7. Spring Security](phase-3/07-spring-security.md)
+  - [8. SecurityConfig](phase-3/08-security-config.md)
+  - [9. User Entity](phase-3/09-user-entity.md)
+  - [10. Signup with BCrypt](phase-3/10-signup.md)
+  - [11. Signup Endpoint](phase-3/11-signup-endpoint.md)
+  - [12. Don't Return the Password](phase-3/12-user-response.md)
+  - [13. Login](phase-3/13-login.md)
+  - [Final Code](phase-3/final-code.md)
+
 - **Coming Soon**
-  - <span class="soon">Phase 2 — Authentication</span>
+  - <span class="soon">Phase 4 — JWT Tokens & Roles</span>

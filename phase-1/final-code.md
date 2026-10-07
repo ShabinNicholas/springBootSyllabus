@@ -277,4 +277,4 @@ Example request body:
 
 ## What's next?
 
-**Phase 2 — Authentication** is coming soon: signup, login, JWT and roles, built on top of this CRUD API. 🚀
+Continue with **[Phase 2 — Validation & DTOs](phase-2/README.md)**: validate incoming data, return clear error messages, separate the API from the database with DTOs, and block duplicate emails. 🚀

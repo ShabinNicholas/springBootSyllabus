@@ -14,7 +14,9 @@ Every page follows the same pattern:
 | Phase | Topic | Status |
 |-------|-------|--------|
 | **[Phase 1](phase-1/README.md)** | Student Management CRUD API with Spring Web, Spring Data JPA and PostgreSQL | ✅ Available |
-| Phase 2 | Authentication: signup, login, JWT and roles | 🚧 Coming soon |
+| **[Phase 2](phase-2/README.md)** | Validation, custom error messages, global exception handling, DTOs and duplicate-email protection | ✅ Available |
+| **[Phase 3](phase-3/README.md)** | @Transactional, pagination, sorting, Spring Security basics, BCrypt signup and login | ✅ Available |
+| Next phases | JWT access/refresh tokens, protected endpoints, USER/ADMIN roles and more | 🚧 Coming soon |
 
 ## The golden rule
 
