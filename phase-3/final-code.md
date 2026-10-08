@@ -642,4 +642,4 @@ Example bodies:
 
 ## What's next?
 
-The next phase turns login into a real token system: **JWT access and refresh tokens**, validating the token on every request, protecting all student endpoints, and **USER / ADMIN** roles. 🚀
+Continue with **[Phase 4 — JWT, Roles & Logout](phase-4/README.md)**: JWT access and refresh tokens, validating the token on every request, **USER / ADMIN** roles, and logout. 🚀

@@ -24,10 +24,10 @@ Security is a big topic, so we build it in stages. This phase covers the first f
 3. Password hashing (BCrypt)         ✅ Phase 3
 4. Signup                            ✅ Phase 3
 5. Login (verify password)           ✅ Phase 3
-6. JWT access + refresh tokens       🚧 next phase
-7. JWT validation                    🚧 next phase
-8. Protect student endpoints         🚧 next phase
-9. Roles: USER vs ADMIN              🚧 next phase
+6. JWT access + refresh tokens       ➡️ Phase 4
+7. JWT validation                    ➡️ Phase 4
+8. Protect student endpoints         ➡️ Phase 4
+9. Roles: USER vs ADMIN              ➡️ Phase 4
 ```
 
 We deliberately **don't** jump straight to JWT. First you see what Spring Security does by default, so you understand *why* JWT is needed later instead of just copying code.

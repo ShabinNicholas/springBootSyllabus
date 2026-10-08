@@ -16,7 +16,8 @@ Every page follows the same pattern:
 | **[Phase 1](phase-1/README.md)** | Student Management CRUD API with Spring Web, Spring Data JPA and PostgreSQL | ✅ Available |
 | **[Phase 2](phase-2/README.md)** | Validation, custom error messages, global exception handling, DTOs and duplicate-email protection | ✅ Available |
 | **[Phase 3](phase-3/README.md)** | @Transactional, pagination, sorting, Spring Security basics, BCrypt signup and login | ✅ Available |
-| Next phases | JWT access/refresh tokens, protected endpoints, USER/ADMIN roles and more | 🚧 Coming soon |
+| **[Phase 4](phase-4/README.md)** | JWT access and refresh tokens, a JWT filter, USER/ADMIN roles, and logout with refresh tokens stored in PostgreSQL | ✅ Available |
+| Next phases | More topics | 🚧 Coming soon |
 
 ## The golden rule
 

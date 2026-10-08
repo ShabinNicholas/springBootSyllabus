@@ -56,5 +56,25 @@
   - [13. Login](phase-3/13-login.md)
   - [Final Code](phase-3/final-code.md)
 
+- **Phase 4 — JWT, Roles & Logout**
+  - [Overview](phase-4/README.md)
+  - [1. JWT Setup](phase-4/01-jwt-setup.md)
+  - [2. Access Token](phase-4/02-access-token.md)
+  - [3. Login Response](phase-4/03-login-response.md)
+  - [4. Refresh Token](phase-4/04-refresh-token.md)
+  - [5. Secret Config](phase-4/05-secret-config.md)
+  - [6. Validate a Token](phase-4/06-validate-token.md)
+  - [7. JWT Filter](phase-4/07-jwt-filter.md)
+  - [8. Remove Basic Auth](phase-4/08-remove-basic-auth.md)
+  - [9. Refresh Endpoint](phase-4/09-refresh-endpoint.md)
+  - [10. Token Types](phase-4/10-token-types.md)
+  - [11. Invalid Token Errors](phase-4/11-invalid-token.md)
+  - [12. Roles](phase-4/12-roles.md)
+  - [13. Role Rules](phase-4/13-role-rules.md)
+  - [14. Logout](phase-4/14-logout.md)
+  - [15. Refresh Tokens in DB](phase-4/15-refresh-token-db.md)
+  - [16. Link Tokens to Users](phase-4/16-token-user-link.md)
+  - [Final Code](phase-4/final-code.md)
+
 - **Coming Soon**
-  - <span class="soon">Phase 4 — JWT Tokens & Roles</span>
+  - <span class="soon">Phase 5</span>
